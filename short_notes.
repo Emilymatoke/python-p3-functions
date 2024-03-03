@@ -1,0 +1,16 @@
+def my_function(param) :
+     print("Running my_fuction")
+     return param +1
+# How to write functions in python
+
+
+
+def say_hi(name="Engineer"):
+     print(f"Hi there {name}!")
+
+say_hi()
+
+or say_hi(Sunny)
+#How to write an argument
+
+
